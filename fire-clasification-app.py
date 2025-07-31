@@ -14,8 +14,8 @@ st.markdown("Built using  *MODIS satellite data*  to accurately classify and pre
 brightness = st.number_input("Brightness", value=300.0)   # User input
 bright_t31 = st.number_input("Bright T31", value=290.0)
 frp = st.number_input("Fire Radiative Power (FRP)", value=15.0)
-scan = st.slider("Scan", 0.0, 6.0, 1.0)
-track = st.slider("Track", 0.0, 10.0, 1.0)
+scan = st.number_input("Scan)", value=1.0)
+track = st.number_input("Track", value=1.0)
 confidence = st.selectbox("Confidence Level", ["low", "nominal", "high"])
 
 
