@@ -1,4 +1,4 @@
-# 🔥 Classification of Fire Types in India Using MODIS Satellite Data (Deforestation Detection)
+# 🔥 Classification of Fire Types in India Using MODIS Satellite Data (Fire Classification System)
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red?logo=streamlit)
@@ -32,11 +32,6 @@ By leveraging **AI and geospatial data**, this project contributes toward early 
 - 🧠 Built multiple ML models — selected **Random Forest** as the best performer  
 - 💾 Exported model & scaler for deployment  
 - 🚀 Developed an interactive **Streamlit app** for real-time prediction
-
----
-
-## 📁 Repository Structure
-
 
 ---
 
@@ -134,17 +129,5 @@ Special thanks to:
 ## 🏁 Conclusion
 
 🌍 Leveraging AI and satellite data for environmental sustainability — one pixel at a time.
-
----
-
----
-## 🔗 Model Download (Large File Notice)
-
-Since the model file `best_fire_detection_model.pkl` is **460.1 MB**, it exceeds GitHub’s 25 MB limit and cannot be uploaded directly to the repository without Git LFS.  
-Therefore, you can download it from the external link below:
-
- 
-📥 **Download Model:** [Click Here](https://drive.google.com/file/d/17hZae8GXwQn4NmB9xYsT3PMKw5SSaqhT/view?usp=drive_link)
-
 
 ---
